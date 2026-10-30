@@ -8,7 +8,7 @@ Az elméleti részben áttekintésre kerül:
 - a technológia kialakulása,
 - főbb mérföldkövek,
 - a mögötte álló konszenzusmechanizmusok,
-- valamint a blokkláncok jelenlegi és jövőbeli felhasználási területei.
+- valamint a blokkláncok jelenlegi és jövőbeli felhasználási területei
 
 ## Programozási rész
 
